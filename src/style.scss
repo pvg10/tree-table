@@ -1,0 +1,19 @@
+.text-center {
+  display: flex;
+  justify-content: center;
+  button {
+    margin-right: 10px;
+  }
+}
+.mt-15 {
+  margin-top: 15px;
+}
+.MuiTableCell-root:first-child {
+  border-right: none !important;
+}
+// input[type="checkbox"] {
+//   /* your style */
+// }
+.MuiCheckbox-colorSecondary.Mui-checked {
+  color: blue !important;
+}
